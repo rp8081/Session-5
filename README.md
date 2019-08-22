@@ -1,9 +1,10 @@
 # Session-5
 
 In this assignment, We will include following for  mnist prediction and observe if it can improve the prediction  :-
-  image normalization
-  L2 regularization
-  ReLU after BN
+
+  image normalization , L2 regularization .ReLU after BN
+  
+  
   
  Please note :- BatchNormalization, Learning rate scheduler, Drop Out are allready part of architecture( refer Session -5 Code 8).
  
