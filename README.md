@@ -49,9 +49,9 @@ Ran the new architecture for 40 epochs and save the model with highest validatio
 
 #### After making above changes and running the new architecture for 40 epochs, validation accuracy reaches to 99.59%  (in 40th epoch).
 
-#### Finally the image gallery for 25 misclassified image is cread.
+#### Finally the image gallery for 25 misclassified image is created.Each image is named as 'index-actual-predicted'.
 
-Each image is named as 'index-actual-predicted'.
+
 
 
 #### Final Observation - For most the images, the labelling seems to be incorrect(manual checking).
