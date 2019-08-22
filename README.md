@@ -55,4 +55,4 @@ Ran the new architecture for 40 epochs and save the model with highest validatio
 ![alt text](https://github.com/rp8081/Session-5/blob/master/misclassified_images.PNG)
 
 
-#### Final Observation - For most the images, the labelling seems to be incorrect(manual checking).
+#### Final Observation - For most the misclassified images , the labelling seems to be incorrect(manual checking).
