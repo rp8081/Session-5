@@ -8,7 +8,7 @@ In this assignment, We will include following for  mnist prediction and observe 
  Please note :- BatchNormalization, Learning rate scheduler, Drop Out are allready part of architecture( refer Session -5 Code 8).
  
  
- 1) image normalization
+## 1) image normalization
  
  We calculate mean and standard deviation of training data set and use this to noramlize both training and testing data.
  
@@ -25,7 +25,7 @@ In this assignment, We will include following for  mnist prediction and observe 
 
 
 
-2) L2 regularization
+## 2) L2 regularization
 
         I have tried to create a custom loss with l2 . 
 
@@ -42,7 +42,7 @@ In this assignment, We will include following for  mnist prediction and observe 
                 return K.categorical_crossentropy(y_true, y_pred)+reg_term(lambd)
                 
                 
-3) ReLU after BN
+## 3) ReLU after BN
 
 
 
