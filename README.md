@@ -51,7 +51,7 @@ Ran the new architecture for 40 epochs and save the model with highest validatio
 
 #### Finally the image gallery for 25 misclassified image is created.Each image is named as 'index-actual-predicted'.
 
-
+![alt text](https://github.com/rp8081/Session-5/blob/master/misclassified_images.PNG)
 
 
 #### Final Observation - For most the images, the labelling seems to be incorrect(manual checking).
