@@ -47,9 +47,9 @@ In this assignment, We will include following for  mnist prediction and observe 
 Ran the new architecture for 40 epochs and save the model with highest validation accuracy
 
 
-### After making above changes and running the new architecture for 40 epochs, validation accuracy reaches to 99.59%  (in 40th epoch).
+#### After making above changes and running the new architecture for 40 epochs, validation accuracy reaches to 99.59%  (in 40th epoch).
 
-## Finally the image gallery for 25 misclassified image is cread.
+#### Finally the image gallery for 25 misclassified image is cread.
 
 Each image is named as 'index-actual-predicted'.
 
